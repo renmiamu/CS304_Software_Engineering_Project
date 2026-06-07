@@ -1,0 +1,142 @@
+.theme-mono {
+  --primary: var(--color-stone-600);
+  --primary-foreground: var(--color-stone-50);
+  --chart-1: var(--color-stone-300);
+  --chart-2: var(--color-stone-500);
+  --chart-3: var(--color-stone-600);
+  --chart-4: var(--color-stone-700);
+  --chart-5: var(--color-stone-800);
+  --sidebar-primary: var(--color-stone-600);
+  --sidebar-primary-foreground: var(--color-stone-50);
+  --sidebar-ring: var(--color-stone-400);
+}
+
+.theme-scaled {
+  @media (min-width: 1024px) {
+    --radius: 0.45em;
+    --text-lg: 1rem;
+    --text-xl: 1.1rem;
+    --text-2xl: 1.2rem;
+    --text-3xl: 1.3rem;
+    --text-4xl: 1.4rem;
+    --text-5xl: 1.5rem;
+    --text-6xl: 1.6rem;
+    --text-7xl: 1.7rem;
+    --text-8xl: 1.8rem;
+    --text-base: 0.85rem;
+    --text-sm: 0.8rem;
+    --spacing: 0.2rem;
+  }
+}
+
+.color-blue {
+  --primary: var(--color-blue-700);
+  --primary-foreground: var(--color-blue-50);
+  --chart-1: var(--color-blue-300);
+  --chart-2: var(--color-blue-500);
+  --chart-3: var(--color-blue-600);
+  --chart-4: var(--color-blue-700);
+  --chart-5: var(--color-blue-800);
+  --sidebar-primary: var(--color-blue-600);
+  --sidebar-primary-foreground: var(--color-blue-50);
+}
+
+.color-green {
+  --primary: var(--color-lime-600);
+  --primary-foreground: var(--color-lime-50);
+  --chart-1: var(--color-green-300);
+  --chart-2: var(--color-green-500);
+  --chart-3: var(--color-green-600);
+  --chart-4: var(--color-green-700);
+  --chart-5: var(--color-green-800);
+  --sidebar-primary: var(--color-lime-600);
+  --sidebar-primary-foreground: var(--color-lime-50);
+}
+
+.color-red {
+  --primary: var(--color-red-600);
+  --primary-foreground: var(--color-red-50);
+  --chart-1: var(--color-red-300);
+  --chart-2: var(--color-red-500);
+  --chart-3: var(--color-red-600);
+  --chart-4: var(--color-red-700);
+  --chart-5: var(--color-red-800);
+  --sidebar-primary: var(--color-red-600);
+  --sidebar-primary-foreground: var(--color-red-50);
+}
+
+.color-rose {
+  --primary: var(--color-rose-600);
+  --primary-foreground: var(--color-rose-50);
+  --chart-1: var(--color-rose-300);
+  --chart-2: var(--color-rose-500);
+  --chart-3: var(--color-rose-600);
+  --chart-4: var(--color-rose-700);
+  --chart-5: var(--color-rose-800);
+  --sidebar-primary: var(--color-rose-600);
+  --sidebar-primary-foreground: var(--color-rose-50);
+}
+
+.color-violet {
+  --primary: var(--color-violet-600);
+  --primary-foreground: var(--color-violet-50);
+  --chart-1: var(--color-violet-300);
+  --chart-2: var(--color-violet-500);
+  --chart-3: var(--color-violet-600);
+  --chart-4: var(--color-violet-700);
+  --chart-5: var(--color-violet-800);
+  --sidebar-primary: var(--color-violet-600);
+  --sidebar-primary-foreground: var(--color-violet-50);
+}
+
+.color-orange {
+  --primary: #ec6c00;
+  --primary-foreground: #fffaf5;
+  --ring: #ec6c00;
+  --chart-1: #ffb36f;
+  --chart-2: #f29135;
+  --chart-3: #ec6c00;
+  --chart-4: #c95600;
+  --chart-5: #a64600;
+  --sidebar-primary: #ec6c00;
+  --sidebar-primary-foreground: #fffaf5;
+  --sidebar-ring: #ec6c00;
+}
+
+.dark .color-orange {
+  --primary: #d29054;
+  --primary-foreground: #fff5eb;
+  --ring: #d29054;
+  --chart-1: #f2b177;
+  --chart-2: #de9a5b;
+  --chart-3: #d29054;
+  --chart-4: #a96633;
+  --chart-5: #8a552b;
+  --sidebar-primary: #d29054;
+  --sidebar-primary-foreground: #fff5eb;
+  --sidebar-ring: #d29054;
+}
+
+.color-yellow {
+  --primary: var(--color-yellow-400);
+  --primary-foreground: var(--color-yellow-900);
+  --chart-1: var(--color-yellow-300);
+  --chart-2: var(--color-yellow-500);
+  --chart-3: var(--color-yellow-600);
+  --chart-4: var(--color-yellow-700);
+  --chart-5: var(--color-yellow-800);
+  --sidebar-primary: var(--color-yellow-600);
+  --sidebar-primary-foreground: var(--color-yellow-50);
+}
+
+.color-teal {
+  --primary: var(--color-teal-600);
+  --primary-foreground: var(--color-teal-50);
+  --chart-1: var(--color-teal-300);
+  --chart-2: var(--color-teal-500);
+  --chart-3: var(--color-teal-600);
+  --chart-4: var(--color-teal-700);
+  --chart-5: var(--color-teal-800);
+  --sidebar-primary: var(--color-teal-600);
+  --sidebar-primary-foreground: var(--color-teal-50);
+}

@@ -1,0 +1,4963 @@
+{
+  "code": 200,
+  "msg": null,
+  "msg_en": null,
+  "content": [
+    {
+      "BJMC": "15应用物理学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0010021501"
+    },
+    {
+      "BJMC": "16应用物理学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "00100216"
+    },
+    {
+      "BJMC": "17应用物理学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0010021701"
+    },
+    {
+      "BJMC": "18应用物理学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0010021801"
+    },
+    {
+      "BJMC": "19应用物理学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0010021901"
+    },
+    {
+      "BJMC": "20级应用物理学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0010022001"
+    },
+    {
+      "BJMC": "21级应用物理学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0010022101"
+    },
+    {
+      "BJMC": "22级应用物理学",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "0010022201"
+    },
+    {
+      "BJMC": "23级应用物理学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0010022301"
+    },
+    {
+      "BJMC": "24级应用物理学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0010022401"
+    },
+    {
+      "BJMC": "14级物理学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0011401"
+    },
+    {
+      "BJMC": "14级应用物理学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0011402"
+    },
+    {
+      "BJMC": "16物理学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "00116"
+    },
+    {
+      "BJMC": "15物理学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0011701"
+    },
+    {
+      "BJMC": "17物理",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "00117701"
+    },
+    {
+      "BJMC": "18物理",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "00118701"
+    },
+    {
+      "BJMC": "19物理",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "00119701"
+    },
+    {
+      "BJMC": "20级物理",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "00120701"
+    },
+    {
+      "BJMC": "21级物理",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0012101"
+    },
+    {
+      "BJMC": "22级物理",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "0012201"
+    },
+    {
+      "BJMC": "23级物理学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0012301"
+    },
+    {
+      "BJMC": "24级物理学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0012401"
+    },
+    {
+      "BJMC": "14级化学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0021401"
+    },
+    {
+      "BJMC": "15化学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0021501"
+    },
+    {
+      "BJMC": "16化学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "00216"
+    },
+    {
+      "BJMC": "17化学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0021701"
+    },
+    {
+      "BJMC": "18化学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0021801"
+    },
+    {
+      "BJMC": "19化学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0021901"
+    },
+    {
+      "BJMC": "20级化学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0022001"
+    },
+    {
+      "BJMC": "21级化学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0022101"
+    },
+    {
+      "BJMC": "22级化学",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "0022201"
+    },
+    {
+      "BJMC": "23级化学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0022301"
+    },
+    {
+      "BJMC": "24级化学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0022401"
+    },
+    {
+      "BJMC": "14级生物技术",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0031401"
+    },
+    {
+      "BJMC": "15生物技术",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0031501"
+    },
+    {
+      "BJMC": "16生物技术",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "00316"
+    },
+    {
+      "BJMC": "17生物技术",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0031701"
+    },
+    {
+      "BJMC": "18生物技术",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0031801"
+    },
+    {
+      "BJMC": "19生物技术",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0031901"
+    },
+    {
+      "BJMC": "20级生物技术",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0032001"
+    },
+    {
+      "BJMC": "14级生物信息学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0041401"
+    },
+    {
+      "BJMC": "15生物信息学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0041501"
+    },
+    {
+      "BJMC": "16生物信息学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "00416"
+    },
+    {
+      "BJMC": "17生物信息学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0041701"
+    },
+    {
+      "BJMC": "18生物信息学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0041801"
+    },
+    {
+      "BJMC": "19生物信息学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0041901"
+    },
+    {
+      "BJMC": "20级生物信息学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0042001"
+    },
+    {
+      "BJMC": "21生物信息学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0042101"
+    },
+    {
+      "BJMC": "22生物信息学",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "0042201"
+    },
+    {
+      "BJMC": "23级生物信息学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0042301"
+    },
+    {
+      "BJMC": "24级生物信息学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0042401"
+    },
+    {
+      "BJMC": "14级材料学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0051401"
+    },
+    {
+      "BJMC": "15材料科学与工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0051501"
+    },
+    {
+      "BJMC": "16材料科学与工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "00516"
+    },
+    {
+      "BJMC": "17材料科学与工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0051701"
+    },
+    {
+      "BJMC": "18材料科学与工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0051801"
+    },
+    {
+      "BJMC": "19材料科学与工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0051901"
+    },
+    {
+      "BJMC": "20级材料科学与工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0052001"
+    },
+    {
+      "BJMC": "21材料科学与工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0052101"
+    },
+    {
+      "BJMC": "22材料科学与工程",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "0052201"
+    },
+    {
+      "BJMC": "23级材料科学与工程",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "0052301"
+    },
+    {
+      "BJMC": "24级材料科学与工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0052401"
+    },
+    {
+      "BJMC": "16级1班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "006101601"
+    },
+    {
+      "BJMC": "16级2班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "006101602"
+    },
+    {
+      "BJMC": "16级3班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "006101603"
+    },
+    {
+      "BJMC": "16级4班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "006101604"
+    },
+    {
+      "BJMC": "16级5班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "006101605"
+    },
+    {
+      "BJMC": "16级6班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "006101606"
+    },
+    {
+      "BJMC": "16级7班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "006101607"
+    },
+    {
+      "BJMC": "16级8班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "006101608"
+    },
+    {
+      "BJMC": "16级9班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "006101609"
+    },
+    {
+      "BJMC": "16级10班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "006101610"
+    },
+    {
+      "BJMC": "16级11班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "006101611"
+    },
+    {
+      "BJMC": "16级12班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "006101612"
+    },
+    {
+      "BJMC": "16级13班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "006101613"
+    },
+    {
+      "BJMC": "16级14班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "006101614"
+    },
+    {
+      "BJMC": "16级15班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "006101615"
+    },
+    {
+      "BJMC": "16级16班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "006101616"
+    },
+    {
+      "BJMC": "16级17班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "006101617"
+    },
+    {
+      "BJMC": "16级18班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "006101618"
+    },
+    {
+      "BJMC": "16级19班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "006101619"
+    },
+    {
+      "BJMC": "16级20班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "006101620"
+    },
+    {
+      "BJMC": "16级21班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "006101621"
+    },
+    {
+      "BJMC": "16级22班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "006101622"
+    },
+    {
+      "BJMC": "16级23班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "006101623"
+    },
+    {
+      "BJMC": "16级24班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "006101624"
+    },
+    {
+      "BJMC": "16级25班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "006101625"
+    },
+    {
+      "BJMC": "16级26班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "006101626"
+    },
+    {
+      "BJMC": "16级27班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "006101627"
+    },
+    {
+      "BJMC": "16级28班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "006101628"
+    },
+    {
+      "BJMC": "16级29班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "006101629"
+    },
+    {
+      "BJMC": "16级30班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "006101630"
+    },
+    {
+      "BJMC": "14级微电",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0061401"
+    },
+    {
+      "BJMC": "15微电子科学与工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0061501"
+    },
+    {
+      "BJMC": "16微电子科学与工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "00616"
+    },
+    {
+      "BJMC": "17微电子科学与工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0061701"
+    },
+    {
+      "BJMC": "14级通信工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0071401"
+    },
+    {
+      "BJMC": "15通信工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0071501"
+    },
+    {
+      "BJMC": "16通信工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "00716"
+    },
+    {
+      "BJMC": "17通信工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0071701"
+    },
+    {
+      "BJMC": "18通信工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0071801"
+    },
+    {
+      "BJMC": "19通信工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0071901"
+    },
+    {
+      "BJMC": "20级通信工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0072001"
+    },
+    {
+      "BJMC": "21通信工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0072101"
+    },
+    {
+      "BJMC": "22通信工程",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "0072201"
+    },
+    {
+      "BJMC": "23级通信工程",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "0072301"
+    },
+    {
+      "BJMC": "24级通信工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0072401"
+    },
+    {
+      "BJMC": "14级金融数学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0081401"
+    },
+    {
+      "BJMC": "15金融数学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0081501"
+    },
+    {
+      "BJMC": "16金融数学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "00816"
+    },
+    {
+      "BJMC": "17金融数学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0081701"
+    },
+    {
+      "BJMC": "18金融数学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0081801"
+    },
+    {
+      "BJMC": "19金融数学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0081901"
+    },
+    {
+      "BJMC": "20级金融数学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0082001"
+    },
+    {
+      "BJMC": "21金融数学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0082101"
+    },
+    {
+      "BJMC": "22金融数学",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "0082201"
+    },
+    {
+      "BJMC": "23级金融数学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0082301"
+    },
+    {
+      "BJMC": "24级金融数学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0082401"
+    },
+    {
+      "BJMC": "14级光电",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0091401"
+    },
+    {
+      "BJMC": "15光电信息科学与工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0091501"
+    },
+    {
+      "BJMC": "16光电信息科学与工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "00916"
+    },
+    {
+      "BJMC": "17光电信息科学与工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0091701"
+    },
+    {
+      "BJMC": "18光电信息科学与工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0091801"
+    },
+    {
+      "BJMC": "19光电信息科学与工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0091901"
+    },
+    {
+      "BJMC": "20级光电信息科学与工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0092001"
+    },
+    {
+      "BJMC": "21光电信息科学与工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0092101"
+    },
+    {
+      "BJMC": "22光电信息科学与工程",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "0092201"
+    },
+    {
+      "BJMC": "23级光电信息科学与工程",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "0092301"
+    },
+    {
+      "BJMC": "24级光电信息科学与工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0092401"
+    },
+    {
+      "BJMC": "14级生物科学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0101401"
+    },
+    {
+      "BJMC": "15生物科学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0101501"
+    },
+    {
+      "BJMC": "16生物科学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "01016"
+    },
+    {
+      "BJMC": "17生物科学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0101701"
+    },
+    {
+      "BJMC": "18生物科学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0101801"
+    },
+    {
+      "BJMC": "19生物科学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0101901"
+    },
+    {
+      "BJMC": "20级生物科学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0102001"
+    },
+    {
+      "BJMC": "21生物科学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0102101"
+    },
+    {
+      "BJMC": "22生物科学",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "0102201"
+    },
+    {
+      "BJMC": "23级生物科学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0102301"
+    },
+    {
+      "BJMC": "24级生物科学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0102401"
+    },
+    {
+      "BJMC": "13级5班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "011"
+    },
+    {
+      "BJMC": "13级6班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "012"
+    },
+    {
+      "BJMC": "13级7班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "013"
+    },
+    {
+      "BJMC": "14级力学与航空航天",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "013011401"
+    },
+    {
+      "BJMC": "13级8班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "014"
+    },
+    {
+      "BJMC": "14级金融学1班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0151401"
+    },
+    {
+      "BJMC": "14级金融学2班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0151402"
+    },
+    {
+      "BJMC": "15金融学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0151501"
+    },
+    {
+      "BJMC": "16金融学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "01516"
+    },
+    {
+      "BJMC": "17金融学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0151701"
+    },
+    {
+      "BJMC": "18金融学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0151801"
+    },
+    {
+      "BJMC": "19金融学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0151901"
+    },
+    {
+      "BJMC": "20级金融学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0152001"
+    },
+    {
+      "BJMC": "21金融学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0152101"
+    },
+    {
+      "BJMC": "22金融学",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "0152201"
+    },
+    {
+      "BJMC": "23级金融学",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "0152301"
+    },
+    {
+      "BJMC": "24级金融学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0152401"
+    },
+    {
+      "BJMC": "14级数学与应用数学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0161401"
+    },
+    {
+      "BJMC": "15数学与应用数学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0161501"
+    },
+    {
+      "BJMC": "16数学与应用数学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "01616"
+    },
+    {
+      "BJMC": "17数学与应用数学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0161701"
+    },
+    {
+      "BJMC": "18数学与应用数学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0161801"
+    },
+    {
+      "BJMC": "19数学与应用数学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0161901"
+    },
+    {
+      "BJMC": "20级数学与应用数学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0162001"
+    },
+    {
+      "BJMC": "21数学与应用数学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0162101"
+    },
+    {
+      "BJMC": "22数学与应用数学",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "0162201"
+    },
+    {
+      "BJMC": "23级数学与应用数学",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "0162301"
+    },
+    {
+      "BJMC": "24级数学与应用数学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0162401"
+    },
+    {
+      "BJMC": "15生物医学工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "017011501"
+    },
+    {
+      "BJMC": "16生物医学工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0170116"
+    },
+    {
+      "BJMC": "17生物医学工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "017011701"
+    },
+    {
+      "BJMC": "18生物医学工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "017011801"
+    },
+    {
+      "BJMC": "19生物医学工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "017011901"
+    },
+    {
+      "BJMC": "20级生物医学工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "017012001"
+    },
+    {
+      "BJMC": "20级智能医学工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "017012002"
+    },
+    {
+      "BJMC": "21生物医学工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "017012101"
+    },
+    {
+      "BJMC": "22生物医学工程",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "017012201"
+    },
+    {
+      "BJMC": "23级生物医学工程",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "017012301"
+    },
+    {
+      "BJMC": "24级生物医学工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "017012401"
+    },
+    {
+      "BJMC": "14级信息工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0171401"
+    },
+    {
+      "BJMC": "15信息工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0171501"
+    },
+    {
+      "BJMC": "16信息工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "01716"
+    },
+    {
+      "BJMC": "17信息工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0171701"
+    },
+    {
+      "BJMC": "18信息工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0171801"
+    },
+    {
+      "BJMC": "19信息工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0171901"
+    },
+    {
+      "BJMC": "20级信息工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0172001"
+    },
+    {
+      "BJMC": "21信息工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0172101"
+    },
+    {
+      "BJMC": "22信息工程",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "0172201"
+    },
+    {
+      "BJMC": "23级信息工程",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "0172301"
+    },
+    {
+      "BJMC": "24级信息工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0172401"
+    },
+    {
+      "BJMC": "13级计算机科学与技术",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0181301"
+    },
+    {
+      "BJMC": "14级计算机科学与技术",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0181401"
+    },
+    {
+      "BJMC": "15计算机科学与技术",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0181501"
+    },
+    {
+      "BJMC": "16计算机科学与技术",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "01816"
+    },
+    {
+      "BJMC": "17计算机科学与技术",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0181701"
+    },
+    {
+      "BJMC": "18计算机科学与技术",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0181801"
+    },
+    {
+      "BJMC": "19计算机科学与技术",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0181901"
+    },
+    {
+      "BJMC": "20级计算机科学与技术",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0182001"
+    },
+    {
+      "BJMC": "21计算机科学与技术",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0182101"
+    },
+    {
+      "BJMC": "22计算机科学与技术",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "0182201"
+    },
+    {
+      "BJMC": "23级计算机科学与技术",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "0182301"
+    },
+    {
+      "BJMC": "24级计算机科学与技术",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0182401"
+    },
+    {
+      "BJMC": "14机械工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0191401"
+    },
+    {
+      "BJMC": "15机械工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0191501"
+    },
+    {
+      "BJMC": "16机械工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "01916"
+    },
+    {
+      "BJMC": "17机械工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0191701"
+    },
+    {
+      "BJMC": "18机械工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0191801"
+    },
+    {
+      "BJMC": "19机械工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0191901"
+    },
+    {
+      "BJMC": "20级机械工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0192001"
+    },
+    {
+      "BJMC": "21机械工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0192101"
+    },
+    {
+      "BJMC": "22机械工程",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "0192201"
+    },
+    {
+      "BJMC": "23级机械工程",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "0192301"
+    },
+    {
+      "BJMC": "24级机械工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0192401"
+    },
+    {
+      "BJMC": "17级微电子（深港实验班）",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "020011-11701"
+    },
+    {
+      "BJMC": "18微电子科学与工程（深港实验班）",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "020011-11801"
+    },
+    {
+      "BJMC": "19微电子科学与工程（深港实验班）",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "020011-11901"
+    },
+    {
+      "BJMC": "20级微电子科学与工程（深港实验班）",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "020011-12001"
+    },
+    {
+      "BJMC": "17微电子科学与工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "020011-21701"
+    },
+    {
+      "BJMC": "18微电子科学与工程（深港学院）",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "020011-21801"
+    },
+    {
+      "BJMC": "20级微电子科学与工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "020011-21901"
+    },
+    {
+      "BJMC": "19级微电子科学与工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "020011-21902"
+    },
+    {
+      "BJMC": "20级微电子科学与工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "020011-22001"
+    },
+    {
+      "BJMC": "21微电子科学与工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "020011-22101"
+    },
+    {
+      "BJMC": "22微电子科学与工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "020011-22201"
+    },
+    {
+      "BJMC": "23级微电子科学与工程",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "020011-22301"
+    },
+    {
+      "BJMC": "24级微电子科学与工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "020011-22401"
+    },
+    {
+      "BJMC": "17机器人工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0201701"
+    },
+    {
+      "BJMC": "18机器人工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0201801"
+    },
+    {
+      "BJMC": "19机器人工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0201901"
+    },
+    {
+      "BJMC": "20级机器人工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0202001"
+    },
+    {
+      "BJMC": "21机器人工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0202101"
+    },
+    {
+      "BJMC": "22机器人工程",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "0202201"
+    },
+    {
+      "BJMC": "23级机器人工程",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "0202301"
+    },
+    {
+      "BJMC": "24级机器人工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0202401"
+    },
+    {
+      "BJMC": "14金融工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0203021401"
+    },
+    {
+      "BJMC": "15金融工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0203021501"
+    },
+    {
+      "BJMC": "16金融工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "02030216"
+    },
+    {
+      "BJMC": "17金融工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0203021701"
+    },
+    {
+      "BJMC": "18金融工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0203021801"
+    },
+    {
+      "BJMC": "19金融工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0203021901"
+    },
+    {
+      "BJMC": "20级金融工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0203022001"
+    },
+    {
+      "BJMC": "21金融工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0203022101"
+    },
+    {
+      "BJMC": "22金融工程",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "0203022201"
+    },
+    {
+      "BJMC": "23级金融工程",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "0203022301"
+    },
+    {
+      "BJMC": "24级金融工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0203022401"
+    },
+    {
+      "BJMC": "19智能科学与技术",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0211901"
+    },
+    {
+      "BJMC": "20级智能科学与技术",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0212001"
+    },
+    {
+      "BJMC": "21智能科学与技术",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0212101"
+    },
+    {
+      "BJMC": "22智能科学与技术",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "0212201"
+    },
+    {
+      "BJMC": "23级智能科学与技术",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "0212301"
+    },
+    {
+      "BJMC": "24级智能科学与技术",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0212401"
+    },
+    {
+      "BJMC": "17临床医学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0221701"
+    },
+    {
+      "BJMC": "18临床医学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0221801"
+    },
+    {
+      "BJMC": "19临床医学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0221901"
+    },
+    {
+      "BJMC": "20级临床医学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0222001"
+    },
+    {
+      "BJMC": "21临床医学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0222101"
+    },
+    {
+      "BJMC": "22临床医学",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "0222201"
+    },
+    {
+      "BJMC": "23级临床医学",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "0222301"
+    },
+    {
+      "BJMC": "24级临床医学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0222401"
+    },
+    {
+      "BJMC": "19临床医学（中外合作办学）",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0231901"
+    },
+    {
+      "BJMC": "20级临床医学（中外合作办学）",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0232001"
+    },
+    {
+      "BJMC": "13级降级",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "024"
+    },
+    {
+      "BJMC": "物理学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "025"
+    },
+    {
+      "BJMC": "化学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "026"
+    },
+    {
+      "BJMC": "生物技术",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "027"
+    },
+    {
+      "BJMC": "生物信息学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "028"
+    },
+    {
+      "BJMC": "微电子科学与工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "029"
+    },
+    {
+      "BJMC": "光电信息科学与工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "030"
+    },
+    {
+      "BJMC": "22生物信息学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "030004"
+    },
+    {
+      "BJMC": "22生物科学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "030010"
+    },
+    {
+      "BJMC": "通信工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "031"
+    },
+    {
+      "BJMC": "材料科学与工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "032"
+    },
+    {
+      "BJMC": "金融数学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "033"
+    },
+    {
+      "BJMC": "生物科学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "034"
+    },
+    {
+      "BJMC": "14级1班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "035"
+    },
+    {
+      "BJMC": "14级2班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "036"
+    },
+    {
+      "BJMC": "14级3班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "037"
+    },
+    {
+      "BJMC": "14级4班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "038"
+    },
+    {
+      "BJMC": "14级5班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "039"
+    },
+    {
+      "BJMC": "14级6班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "040"
+    },
+    {
+      "BJMC": "14级7班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "041"
+    },
+    {
+      "BJMC": "14级8班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "042"
+    },
+    {
+      "BJMC": "14级9班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "043"
+    },
+    {
+      "BJMC": "14级10班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "044"
+    },
+    {
+      "BJMC": "14级11班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "045"
+    },
+    {
+      "BJMC": "14级12班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "046"
+    },
+    {
+      "BJMC": "14级13班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "047"
+    },
+    {
+      "BJMC": "14级14班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "048"
+    },
+    {
+      "BJMC": "14级15班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "049"
+    },
+    {
+      "BJMC": "14级16班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "050"
+    },
+    {
+      "BJMC": "14级17班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "051"
+    },
+    {
+      "BJMC": "14级18班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "052"
+    },
+    {
+      "BJMC": "物理学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "053"
+    },
+    {
+      "BJMC": "化学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "054"
+    },
+    {
+      "BJMC": "生物技术",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "055"
+    },
+    {
+      "BJMC": "生物科学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "056"
+    },
+    {
+      "BJMC": "生物信息学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "057"
+    },
+    {
+      "BJMC": "材料科学与工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "058"
+    },
+    {
+      "BJMC": "微电子科学与工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "059"
+    },
+    {
+      "BJMC": "光电信息科学与工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "060"
+    },
+    {
+      "BJMC": "通信工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "061"
+    },
+    {
+      "BJMC": "数学与应用数学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "062"
+    },
+    {
+      "BJMC": "金融学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "063"
+    },
+    {
+      "BJMC": "13级生物医学工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "064"
+    },
+    {
+      "BJMC": "15级1班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "065"
+    },
+    {
+      "BJMC": "15级2班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "066"
+    },
+    {
+      "BJMC": "15级3班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "067"
+    },
+    {
+      "BJMC": "15级4班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "068"
+    },
+    {
+      "BJMC": "15级5班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "069"
+    },
+    {
+      "BJMC": "15级6班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "070"
+    },
+    {
+      "BJMC": "16海洋",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0707011601"
+    },
+    {
+      "BJMC": "17海洋",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0707011701"
+    },
+    {
+      "BJMC": "18海洋",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0707011801"
+    },
+    {
+      "BJMC": "19海洋科学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0707011901"
+    },
+    {
+      "BJMC": "20级海洋科学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0707012001"
+    },
+    {
+      "BJMC": "20级海洋工程与技术",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0707012002"
+    },
+    {
+      "BJMC": "21海洋科学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0707012101"
+    },
+    {
+      "BJMC": "22海洋科学",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "0707012201"
+    },
+    {
+      "BJMC": "23级海洋科学",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "0707012301"
+    },
+    {
+      "BJMC": "24级海洋科学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0707012401"
+    },
+    {
+      "BJMC": "16地球物理",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0708011601"
+    },
+    {
+      "BJMC": "17地球物理",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0708011701"
+    },
+    {
+      "BJMC": "18地球物理",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0708011801"
+    },
+    {
+      "BJMC": "19地球物理",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0708011901"
+    },
+    {
+      "BJMC": "20级地球物理",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0708012001"
+    },
+    {
+      "BJMC": "21级地球物理",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0708012101"
+    },
+    {
+      "BJMC": "22级地球物理",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "0708012201"
+    },
+    {
+      "BJMC": "23级地球物理学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0708012301"
+    },
+    {
+      "BJMC": "24级地球物理学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0708012401"
+    },
+    {
+      "BJMC": "金融数学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "071"
+    },
+    {
+      "BJMC": "15统计学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "071201*1501"
+    },
+    {
+      "BJMC": "16统计学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "071201*1601"
+    },
+    {
+      "BJMC": "17统计学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "071201*1701"
+    },
+    {
+      "BJMC": "18统计学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "071201*1801"
+    },
+    {
+      "BJMC": "19统计学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "071201*1901"
+    },
+    {
+      "BJMC": "20级统计学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "071201*2001"
+    },
+    {
+      "BJMC": "20级数据科学与大数据技术",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "071201*2002"
+    },
+    {
+      "BJMC": "21统计学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "071201*2101"
+    },
+    {
+      "BJMC": "22统计学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "071201*2201"
+    },
+    {
+      "BJMC": "23级统计学",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "071201*2301"
+    },
+    {
+      "BJMC": "24级统计学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "071201*2401"
+    },
+    {
+      "BJMC": "15统计学（原数学）",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0712011501"
+    },
+    {
+      "BJMC": "16统计学（原数学）",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "07120116"
+    },
+    {
+      "BJMC": "17统计学（原数学）",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0712011701"
+    },
+    {
+      "BJMC": "18统计学（原数学）",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0712011801"
+    },
+    {
+      "BJMC": "19统计学（原数学）",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0712011901"
+    },
+    {
+      "BJMC": "20级统计学（原数学）",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0712012001"
+    },
+    {
+      "BJMC": "15级7班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "072"
+    },
+    {
+      "BJMC": "15级8班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "073"
+    },
+    {
+      "BJMC": "15级9班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "074"
+    },
+    {
+      "BJMC": "15级10班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "075"
+    },
+    {
+      "BJMC": "15级11班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "076"
+    },
+    {
+      "BJMC": "15级12班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "077"
+    },
+    {
+      "BJMC": "15级13班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "078"
+    },
+    {
+      "BJMC": "15级14班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "079"
+    },
+    {
+      "BJMC": "15级15班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "080"
+    },
+    {
+      "BJMC": "15理论与应用力学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0801011501"
+    },
+    {
+      "BJMC": "16理论与应用力学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "08010116"
+    },
+    {
+      "BJMC": "17理论与应用力学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0801011701"
+    },
+    {
+      "BJMC": "18理论与应用力学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0801011801"
+    },
+    {
+      "BJMC": "19理论与应用力学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0801011901"
+    },
+    {
+      "BJMC": "20级理论与应用力学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0801012001"
+    },
+    {
+      "BJMC": "21理论与应用力学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0801012101"
+    },
+    {
+      "BJMC": "22理论与应用力学",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "0801012201"
+    },
+    {
+      "BJMC": "23级理论与应用力学",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "0801012301"
+    },
+    {
+      "BJMC": "24级理论与应用力学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0801012401"
+    },
+    {
+      "BJMC": "19工业设计",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0802051901"
+    },
+    {
+      "BJMC": "20级工业设计（系统设计与智能制造学院））",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0802052001"
+    },
+    {
+      "BJMC": "20级工业设计（设计学院）",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0802052002"
+    },
+    {
+      "BJMC": "21工业设计（系统设计与智能制造学院）",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0802052101"
+    },
+    {
+      "BJMC": "21工业设计（创新创意设计学院）",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0802052102"
+    },
+    {
+      "BJMC": "22工业设计（系统设计与智能制造学院）",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "0802052201"
+    },
+    {
+      "BJMC": "22工业设计（创新创意设计学院）",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0802052202"
+    },
+    {
+      "BJMC": "23级工业设计（系统设计与智能制造学院）",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "0802052301"
+    },
+    {
+      "BJMC": "23级工业设计（创新创意设计学院）",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0802052302"
+    },
+    {
+      "BJMC": "24级工业设计（系统设计与智能制造学院）",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0802052401"
+    },
+    {
+      "BJMC": "24级工业设计（创新创意设计学院）",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0802052402"
+    },
+    {
+      "BJMC": "21级光电信息材料与器件",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "080418T2101"
+    },
+    {
+      "BJMC": "22级光电信息材料与器件",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "080418T2201"
+    },
+    {
+      "BJMC": "23级光电信息材料与器件",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "080418T2301"
+    },
+    {
+      "BJMC": "24级光电信息材料与器件",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "080418T2401"
+    },
+    {
+      "BJMC": "21级新能源科学与工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "080503T2101"
+    },
+    {
+      "BJMC": "22级新能源科学与工程",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "080503T2201"
+    },
+    {
+      "BJMC": "23级新能源科学与工程",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "080503T2301"
+    },
+    {
+      "BJMC": "24级新能源科学与工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "080503T2401"
+    },
+    {
+      "BJMC": "24级人工智能",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "080717T2401"
+    },
+    {
+      "BJMC": "25级人工智能",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "080717T2501"
+    },
+    {
+      "BJMC": "20级自动化",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0808012001"
+    },
+    {
+      "BJMC": "20级自动化（系统设计与智能制造学院）",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0808012002"
+    },
+    {
+      "BJMC": "21级自动化",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0808012101"
+    },
+    {
+      "BJMC": "21级自动化（系统设计与智能制造学院）",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0808012102"
+    },
+    {
+      "BJMC": "22级自动化",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "0808012201"
+    },
+    {
+      "BJMC": "22级自动化（系统设计与智能制造学院）",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0808012202"
+    },
+    {
+      "BJMC": "23级自动化",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0808012302"
+    },
+    {
+      "BJMC": "24级自动化",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0808012401"
+    },
+    {
+      "BJMC": "21数据科学与大数据技术",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "080910T2101"
+    },
+    {
+      "BJMC": "22数据科学与大数据技术",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "080910T2201"
+    },
+    {
+      "BJMC": "23级数据科学与大数据技术",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "080910T2301"
+    },
+    {
+      "BJMC": "24级数据科学与大数据技术",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "080910T2401"
+    },
+    {
+      "BJMC": "15水文与水资源工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0811021501"
+    },
+    {
+      "BJMC": "16水文与水资源工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "08110216"
+    },
+    {
+      "BJMC": "17水文与水资源工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0811021701"
+    },
+    {
+      "BJMC": "18水文与水资源工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0811021801"
+    },
+    {
+      "BJMC": "19水文与水资源工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0811021901"
+    },
+    {
+      "BJMC": "20级水文与水资源工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0811022001"
+    },
+    {
+      "BJMC": "21水文与水资源工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0811022101"
+    },
+    {
+      "BJMC": "22水文与水资源工程",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "0811022201"
+    },
+    {
+      "BJMC": "23级水文与水资源工程",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "0811022301"
+    },
+    {
+      "BJMC": "24级水文与水资源工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0811022401"
+    },
+    {
+      "BJMC": "21海洋工程与技术",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "081902T2101"
+    },
+    {
+      "BJMC": "22海洋工程与技术",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "081902T2201"
+    },
+    {
+      "BJMC": "23级海洋工程与技术",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "081902T2301"
+    },
+    {
+      "BJMC": "24级海洋工程与技术",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "081902T2401"
+    },
+    {
+      "BJMC": "15级17班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "082"
+    },
+    {
+      "BJMC": "16航空航天工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0820011601"
+    },
+    {
+      "BJMC": "17航空航天工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0820011701"
+    },
+    {
+      "BJMC": "18航空航天工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0820011801"
+    },
+    {
+      "BJMC": "19航空航天工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0820011901"
+    },
+    {
+      "BJMC": "20级航空航天工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0820012001"
+    },
+    {
+      "BJMC": "21航空航天工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0820012101"
+    },
+    {
+      "BJMC": "22航空航天工程",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "0820012201"
+    },
+    {
+      "BJMC": "23级航空航天工程",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "0820012301"
+    },
+    {
+      "BJMC": "24级航空航天工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0820012401"
+    },
+    {
+      "BJMC": "14级环境科学与工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0825011401"
+    },
+    {
+      "BJMC": "15环境科学与工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0825011501"
+    },
+    {
+      "BJMC": "16环境科学与工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "08250116"
+    },
+    {
+      "BJMC": "17环境科学与工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0825011701"
+    },
+    {
+      "BJMC": "18环境科学与工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0825011801"
+    },
+    {
+      "BJMC": "19环境科学与工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0825011901"
+    },
+    {
+      "BJMC": "20级环境科学与工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0825012001"
+    },
+    {
+      "BJMC": "21环境科学与工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0825012101"
+    },
+    {
+      "BJMC": "22环境科学与工程",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "0825012201"
+    },
+    {
+      "BJMC": "23级环境科学与工程",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "0825012301"
+    },
+    {
+      "BJMC": "24级环境科学与工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "0825012401"
+    },
+    {
+      "BJMC": "24级生物医学工程（联合医学院）",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "082601H2401"
+    },
+    {
+      "BJMC": "25级生物医学工程（联合医学院）",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "082601H2501"
+    },
+    {
+      "BJMC": "15级18班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "083"
+    },
+    {
+      "BJMC": "15级19班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "084"
+    },
+    {
+      "BJMC": "15级20班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "085"
+    },
+    {
+      "BJMC": "15级21班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "086"
+    },
+    {
+      "BJMC": "15级22班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "087"
+    },
+    {
+      "BJMC": "15级23班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "088"
+    },
+    {
+      "BJMC": "15级24班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "089"
+    },
+    {
+      "BJMC": "15级25班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "090"
+    },
+    {
+      "BJMC": "15级26班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "091"
+    },
+    {
+      "BJMC": "15级27班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "092"
+    },
+    {
+      "BJMC": "15级28班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "093"
+    },
+    {
+      "BJMC": "15级29班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "094"
+    },
+    {
+      "BJMC": "15级30班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "095"
+    },
+    {
+      "BJMC": "16生物医学科学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "100103T1601"
+    },
+    {
+      "BJMC": "17生物医学科学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "100103T1701"
+    },
+    {
+      "BJMC": "18生物医学科学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "100103T1801"
+    },
+    {
+      "BJMC": "19生物医学科学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "100103T1901"
+    },
+    {
+      "BJMC": "20级生物医学科学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "100103T2001"
+    },
+    {
+      "BJMC": "21生物医学科学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "100103T2101"
+    },
+    {
+      "BJMC": "22生物医学科学",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "100103T2201"
+    },
+    {
+      "BJMC": "23级生物医学科学",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "100103T2301"
+    },
+    {
+      "BJMC": "24级生物医学科学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "100103T2401"
+    },
+    {
+      "BJMC": "24级生物医学科学（联合医学院）",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "100103TH2401"
+    },
+    {
+      "BJMC": "25级生物医学科学（联合医学院）",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "100103TH2501"
+    },
+    {
+      "BJMC": "24级口腔医学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "100301K2401"
+    },
+    {
+      "BJMC": "21智能医学工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101011T2101"
+    },
+    {
+      "BJMC": "22智能医学工程",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "101011T2201"
+    },
+    {
+      "BJMC": "23级智能医学工程",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "101011T2301"
+    },
+    {
+      "BJMC": "24级智能医学工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101011T2401"
+    },
+    {
+      "BJMC": "17级1班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101701"
+    },
+    {
+      "BJMC": "17级2班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101702"
+    },
+    {
+      "BJMC": "17级3班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101703"
+    },
+    {
+      "BJMC": "17级4班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101704"
+    },
+    {
+      "BJMC": "17级5班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101705"
+    },
+    {
+      "BJMC": "17级6班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101706"
+    },
+    {
+      "BJMC": "17级7班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101707"
+    },
+    {
+      "BJMC": "17级8班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101708"
+    },
+    {
+      "BJMC": "17级9班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101709"
+    },
+    {
+      "BJMC": "17级10班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101710"
+    },
+    {
+      "BJMC": "17级11班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101711"
+    },
+    {
+      "BJMC": "17级12班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101712"
+    },
+    {
+      "BJMC": "17级13班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101713"
+    },
+    {
+      "BJMC": "17级14班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101714"
+    },
+    {
+      "BJMC": "17级15班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101715"
+    },
+    {
+      "BJMC": "17级16班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101716"
+    },
+    {
+      "BJMC": "17级17班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101717"
+    },
+    {
+      "BJMC": "17级18班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101718"
+    },
+    {
+      "BJMC": "17级19班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101719"
+    },
+    {
+      "BJMC": "17级20班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101720"
+    },
+    {
+      "BJMC": "17级21班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101721"
+    },
+    {
+      "BJMC": "17级22班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101722"
+    },
+    {
+      "BJMC": "17级23班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101723"
+    },
+    {
+      "BJMC": "17级24班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101724"
+    },
+    {
+      "BJMC": "17级25班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101725"
+    },
+    {
+      "BJMC": "17级26班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101726"
+    },
+    {
+      "BJMC": "17级27班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101727"
+    },
+    {
+      "BJMC": "17级28班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101728"
+    },
+    {
+      "BJMC": "17级29班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101729"
+    },
+    {
+      "BJMC": "17级30班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101730"
+    },
+    {
+      "BJMC": "18级1班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101801"
+    },
+    {
+      "BJMC": "18级2班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101802"
+    },
+    {
+      "BJMC": "18级3班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101803"
+    },
+    {
+      "BJMC": "18级4班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101804"
+    },
+    {
+      "BJMC": "18级5班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101805"
+    },
+    {
+      "BJMC": "18级6班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101806"
+    },
+    {
+      "BJMC": "18级7班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101807"
+    },
+    {
+      "BJMC": "18级8班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101808"
+    },
+    {
+      "BJMC": "18级9班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101809"
+    },
+    {
+      "BJMC": "18级10班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101810"
+    },
+    {
+      "BJMC": "18级11班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101811"
+    },
+    {
+      "BJMC": "18级12班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101812"
+    },
+    {
+      "BJMC": "18级13班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101813"
+    },
+    {
+      "BJMC": "18级14班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101814"
+    },
+    {
+      "BJMC": "18级15班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101815"
+    },
+    {
+      "BJMC": "18级16班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101816"
+    },
+    {
+      "BJMC": "18级17班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101817"
+    },
+    {
+      "BJMC": "18级18班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101818"
+    },
+    {
+      "BJMC": "18级19班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101819"
+    },
+    {
+      "BJMC": "18级20班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101820"
+    },
+    {
+      "BJMC": "18级21班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101821"
+    },
+    {
+      "BJMC": "18级22班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101822"
+    },
+    {
+      "BJMC": "18级23班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101823"
+    },
+    {
+      "BJMC": "18级24班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101824"
+    },
+    {
+      "BJMC": "18级25班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101825"
+    },
+    {
+      "BJMC": "18级26班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101826"
+    },
+    {
+      "BJMC": "18级27班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101827"
+    },
+    {
+      "BJMC": "18级28班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101828"
+    },
+    {
+      "BJMC": "18级29班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101829"
+    },
+    {
+      "BJMC": "18级30班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101830"
+    },
+    {
+      "BJMC": "18级31班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101831"
+    },
+    {
+      "BJMC": "18级32班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101832"
+    },
+    {
+      "BJMC": "19级1班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101901"
+    },
+    {
+      "BJMC": "19级2班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101902"
+    },
+    {
+      "BJMC": "19级3班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101903"
+    },
+    {
+      "BJMC": "19级4班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101904"
+    },
+    {
+      "BJMC": "19级5班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101905"
+    },
+    {
+      "BJMC": "19级6班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101906"
+    },
+    {
+      "BJMC": "19级7班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101907"
+    },
+    {
+      "BJMC": "19级8班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101908"
+    },
+    {
+      "BJMC": "19级9班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101909"
+    },
+    {
+      "BJMC": "19级10班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101910"
+    },
+    {
+      "BJMC": "19级11班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101911"
+    },
+    {
+      "BJMC": "19级12班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101912"
+    },
+    {
+      "BJMC": "19级13班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101913"
+    },
+    {
+      "BJMC": "19级14班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101914"
+    },
+    {
+      "BJMC": "19级15班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101915"
+    },
+    {
+      "BJMC": "19级16班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101916"
+    },
+    {
+      "BJMC": "19级17班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101917"
+    },
+    {
+      "BJMC": "19级18班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101918"
+    },
+    {
+      "BJMC": "19级19班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101919"
+    },
+    {
+      "BJMC": "19级20班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101920"
+    },
+    {
+      "BJMC": "19级21班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101921"
+    },
+    {
+      "BJMC": "19级22班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101922"
+    },
+    {
+      "BJMC": "19级23班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101923"
+    },
+    {
+      "BJMC": "19级24班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101924"
+    },
+    {
+      "BJMC": "19级25班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101925"
+    },
+    {
+      "BJMC": "19级26班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101926"
+    },
+    {
+      "BJMC": "19级27班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101927"
+    },
+    {
+      "BJMC": "19级28班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101928"
+    },
+    {
+      "BJMC": "19级29班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101929"
+    },
+    {
+      "BJMC": "19级30班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "101930"
+    },
+    {
+      "BJMC": "20级1班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "102001"
+    },
+    {
+      "BJMC": "20级2班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "102002"
+    },
+    {
+      "BJMC": "20级3班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "102003"
+    },
+    {
+      "BJMC": "20级4班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "102004"
+    },
+    {
+      "BJMC": "20级5班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "102005"
+    },
+    {
+      "BJMC": "20级6班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "102006"
+    },
+    {
+      "BJMC": "20级7班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "102007"
+    },
+    {
+      "BJMC": "20级8班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "102008"
+    },
+    {
+      "BJMC": "20级9班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "102009"
+    },
+    {
+      "BJMC": "20级10班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "102010"
+    },
+    {
+      "BJMC": "20级11班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "102011"
+    },
+    {
+      "BJMC": "20级12班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "102012"
+    },
+    {
+      "BJMC": "20级13班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "102013"
+    },
+    {
+      "BJMC": "20级14班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "102014"
+    },
+    {
+      "BJMC": "20级15班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "102015"
+    },
+    {
+      "BJMC": "20级16班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "102016"
+    },
+    {
+      "BJMC": "20级17班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "102017"
+    },
+    {
+      "BJMC": "20级18班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "102018"
+    },
+    {
+      "BJMC": "20级19班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "102019"
+    },
+    {
+      "BJMC": "20级20班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "102020"
+    },
+    {
+      "BJMC": "20级21班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "102021"
+    },
+    {
+      "BJMC": "20级22班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "102022"
+    },
+    {
+      "BJMC": "20级23班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "102023"
+    },
+    {
+      "BJMC": "20级24班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "102024"
+    },
+    {
+      "BJMC": "20级25班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "102025"
+    },
+    {
+      "BJMC": "20级26班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "102026"
+    },
+    {
+      "BJMC": "20级27班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "102027"
+    },
+    {
+      "BJMC": "20级28班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "102028"
+    },
+    {
+      "BJMC": "20级29班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "102029"
+    },
+    {
+      "BJMC": "20级30班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "102030"
+    },
+    {
+      "BJMC": "20级31班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "102031"
+    },
+    {
+      "BJMC": "20级32班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "102032"
+    },
+    {
+      "BJMC": "20级33班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "102033"
+    },
+    {
+      "BJMC": "20级34班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "102034"
+    },
+    {
+      "BJMC": "20级35班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "102035"
+    },
+    {
+      "BJMC": "20级交换生班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "102036"
+    },
+    {
+      "BJMC": "21级1班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102101"
+    },
+    {
+      "BJMC": "21级2班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102102"
+    },
+    {
+      "BJMC": "21级3班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102103"
+    },
+    {
+      "BJMC": "21级4班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102104"
+    },
+    {
+      "BJMC": "21级5班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102105"
+    },
+    {
+      "BJMC": "21级6班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102106"
+    },
+    {
+      "BJMC": "21级7班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102107"
+    },
+    {
+      "BJMC": "21级8班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102108"
+    },
+    {
+      "BJMC": "21级9班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102109"
+    },
+    {
+      "BJMC": "21级10班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102110"
+    },
+    {
+      "BJMC": "21级11班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102111"
+    },
+    {
+      "BJMC": "21级12班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102112"
+    },
+    {
+      "BJMC": "21级13班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102113"
+    },
+    {
+      "BJMC": "21级14班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102114"
+    },
+    {
+      "BJMC": "21级15班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102115"
+    },
+    {
+      "BJMC": "21级16班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102116"
+    },
+    {
+      "BJMC": "21级17班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102117"
+    },
+    {
+      "BJMC": "21级18班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102118"
+    },
+    {
+      "BJMC": "21级19班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102119"
+    },
+    {
+      "BJMC": "21级20班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102120"
+    },
+    {
+      "BJMC": "21级21班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102121"
+    },
+    {
+      "BJMC": "21级22班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102122"
+    },
+    {
+      "BJMC": "21级23班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102123"
+    },
+    {
+      "BJMC": "21级24班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102124"
+    },
+    {
+      "BJMC": "21级25班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102125"
+    },
+    {
+      "BJMC": "21级26班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102126"
+    },
+    {
+      "BJMC": "21级27班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102127"
+    },
+    {
+      "BJMC": "21级28班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102128"
+    },
+    {
+      "BJMC": "21级29班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102129"
+    },
+    {
+      "BJMC": "21级30班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102130"
+    },
+    {
+      "BJMC": "21级31班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102131"
+    },
+    {
+      "BJMC": "21级32班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102132"
+    },
+    {
+      "BJMC": "21级33班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102133"
+    },
+    {
+      "BJMC": "21级34班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102134"
+    },
+    {
+      "BJMC": "21级35班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102135"
+    },
+    {
+      "BJMC": "21级交换生班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "102140"
+    },
+    {
+      "BJMC": "22级1班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "102201"
+    },
+    {
+      "BJMC": "22级2班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "102202"
+    },
+    {
+      "BJMC": "22级3班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "102203"
+    },
+    {
+      "BJMC": "22级4班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102204"
+    },
+    {
+      "BJMC": "22级5班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102205"
+    },
+    {
+      "BJMC": "22级6班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102206"
+    },
+    {
+      "BJMC": "22级7班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102207"
+    },
+    {
+      "BJMC": "22级8班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102208"
+    },
+    {
+      "BJMC": "22级9班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102209"
+    },
+    {
+      "BJMC": "22级10班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102210"
+    },
+    {
+      "BJMC": "22级11班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102211"
+    },
+    {
+      "BJMC": "22级12班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102212"
+    },
+    {
+      "BJMC": "22级13班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102213"
+    },
+    {
+      "BJMC": "22级14班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102214"
+    },
+    {
+      "BJMC": "22级15班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102215"
+    },
+    {
+      "BJMC": "22级16班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102216"
+    },
+    {
+      "BJMC": "22级17班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102217"
+    },
+    {
+      "BJMC": "22级18班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102218"
+    },
+    {
+      "BJMC": "22级19班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102219"
+    },
+    {
+      "BJMC": "22级20班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102220"
+    },
+    {
+      "BJMC": "22级21班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102221"
+    },
+    {
+      "BJMC": "22级22班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102222"
+    },
+    {
+      "BJMC": "22级23班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102223"
+    },
+    {
+      "BJMC": "22级24班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102224"
+    },
+    {
+      "BJMC": "22级25班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102225"
+    },
+    {
+      "BJMC": "22级26班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102226"
+    },
+    {
+      "BJMC": "22级27班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102227"
+    },
+    {
+      "BJMC": "22级28班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102228"
+    },
+    {
+      "BJMC": "22级29班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102229"
+    },
+    {
+      "BJMC": "22级30班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102230"
+    },
+    {
+      "BJMC": "22级交换生班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "102240"
+    },
+    {
+      "BJMC": "23级1班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "102301"
+    },
+    {
+      "BJMC": "23级2班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102302"
+    },
+    {
+      "BJMC": "23级3班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102303"
+    },
+    {
+      "BJMC": "23级4班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102304"
+    },
+    {
+      "BJMC": "23级5班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102305"
+    },
+    {
+      "BJMC": "23级6班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102306"
+    },
+    {
+      "BJMC": "23级7班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102307"
+    },
+    {
+      "BJMC": "23级8班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102308"
+    },
+    {
+      "BJMC": "23级9班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102309"
+    },
+    {
+      "BJMC": "23级10班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102310"
+    },
+    {
+      "BJMC": "23级11班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102311"
+    },
+    {
+      "BJMC": "23级12班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102312"
+    },
+    {
+      "BJMC": "23级13班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102313"
+    },
+    {
+      "BJMC": "23级14班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102314"
+    },
+    {
+      "BJMC": "23级15班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102315"
+    },
+    {
+      "BJMC": "23级16班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102316"
+    },
+    {
+      "BJMC": "23级17班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102317"
+    },
+    {
+      "BJMC": "23级18班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102318"
+    },
+    {
+      "BJMC": "23级19班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102319"
+    },
+    {
+      "BJMC": "23级20班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102320"
+    },
+    {
+      "BJMC": "23级21班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102321"
+    },
+    {
+      "BJMC": "23级22班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102322"
+    },
+    {
+      "BJMC": "23级23班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102323"
+    },
+    {
+      "BJMC": "23级24班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102324"
+    },
+    {
+      "BJMC": "23级25班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102325"
+    },
+    {
+      "BJMC": "23级26班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102326"
+    },
+    {
+      "BJMC": "23级27班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102327"
+    },
+    {
+      "BJMC": "23级28班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102328"
+    },
+    {
+      "BJMC": "23级29班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102329"
+    },
+    {
+      "BJMC": "23级30班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102330"
+    },
+    {
+      "BJMC": "23级31班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102331"
+    },
+    {
+      "BJMC": "23级32班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102332"
+    },
+    {
+      "BJMC": "23级33班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102333"
+    },
+    {
+      "BJMC": "23级34班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102334"
+    },
+    {
+      "BJMC": "23级35班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102335"
+    },
+    {
+      "BJMC": "23级36班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102336"
+    },
+    {
+      "BJMC": "23级交换生班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "102340"
+    },
+    {
+      "BJMC": "24级1班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "102401"
+    },
+    {
+      "BJMC": "24级2班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "102402"
+    },
+    {
+      "BJMC": "24级3班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "102403"
+    },
+    {
+      "BJMC": "24级4班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "102404"
+    },
+    {
+      "BJMC": "24级5班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "102405"
+    },
+    {
+      "BJMC": "24级6班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "102406"
+    },
+    {
+      "BJMC": "24级7班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "102407"
+    },
+    {
+      "BJMC": "24级8班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "102408"
+    },
+    {
+      "BJMC": "24级9班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "102409"
+    },
+    {
+      "BJMC": "24级10班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "102410"
+    },
+    {
+      "BJMC": "24级11班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "102411"
+    },
+    {
+      "BJMC": "24级12班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "102412"
+    },
+    {
+      "BJMC": "24级13班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "102413"
+    },
+    {
+      "BJMC": "24级14班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "102414"
+    },
+    {
+      "BJMC": "24级15班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "102415"
+    },
+    {
+      "BJMC": "24级16班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "102416"
+    },
+    {
+      "BJMC": "24级17班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "102417"
+    },
+    {
+      "BJMC": "24级18班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "102418"
+    },
+    {
+      "BJMC": "24级19班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "102419"
+    },
+    {
+      "BJMC": "24级20班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "102420"
+    },
+    {
+      "BJMC": "24级21班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "102421"
+    },
+    {
+      "BJMC": "24级22班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "102422"
+    },
+    {
+      "BJMC": "24级23班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "102423"
+    },
+    {
+      "BJMC": "24级24班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "102424"
+    },
+    {
+      "BJMC": "24级25班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "102425"
+    },
+    {
+      "BJMC": "24级26班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "102426"
+    },
+    {
+      "BJMC": "24级27班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "102427"
+    },
+    {
+      "BJMC": "24级28班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "102428"
+    },
+    {
+      "BJMC": "24级29班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "102429"
+    },
+    {
+      "BJMC": "24级30班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "102430"
+    },
+    {
+      "BJMC": "24级31班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "102431"
+    },
+    {
+      "BJMC": "24级32班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "102432"
+    },
+    {
+      "BJMC": "24级33班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "102433"
+    },
+    {
+      "BJMC": "24级34班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "102434"
+    },
+    {
+      "BJMC": "24级35班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "102435"
+    },
+    {
+      "BJMC": "24级36班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "102436"
+    },
+    {
+      "BJMC": "24级37班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "102437"
+    },
+    {
+      "BJMC": "24级38班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "102438"
+    },
+    {
+      "BJMC": "24级39班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "102439"
+    },
+    {
+      "BJMC": "24级交换生班",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "102440"
+    },
+    {
+      "BJMC": "跨校互选计划",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "102441"
+    },
+    {
+      "BJMC": "深圳市跨校互选",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "102442"
+    },
+    {
+      "BJMC": "25级1班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102501"
+    },
+    {
+      "BJMC": "25级2班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102502"
+    },
+    {
+      "BJMC": "25级3班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102503"
+    },
+    {
+      "BJMC": "25级4班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102504"
+    },
+    {
+      "BJMC": "25级5班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102505"
+    },
+    {
+      "BJMC": "25级6班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102506"
+    },
+    {
+      "BJMC": "25级7班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102507"
+    },
+    {
+      "BJMC": "25级8班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102508"
+    },
+    {
+      "BJMC": "25级9班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102509"
+    },
+    {
+      "BJMC": "25级10班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102510"
+    },
+    {
+      "BJMC": "25级11班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102511"
+    },
+    {
+      "BJMC": "25级12班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102512"
+    },
+    {
+      "BJMC": "25级13班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102513"
+    },
+    {
+      "BJMC": "25级14班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102514"
+    },
+    {
+      "BJMC": "25级15班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102515"
+    },
+    {
+      "BJMC": "25级16班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102516"
+    },
+    {
+      "BJMC": "25级17班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102517"
+    },
+    {
+      "BJMC": "25级18班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102518"
+    },
+    {
+      "BJMC": "25级19班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102519"
+    },
+    {
+      "BJMC": "25级20班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102520"
+    },
+    {
+      "BJMC": "25级21班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102521"
+    },
+    {
+      "BJMC": "25级22班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102522"
+    },
+    {
+      "BJMC": "25级23班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102523"
+    },
+    {
+      "BJMC": "25级24班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102524"
+    },
+    {
+      "BJMC": "25级25班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102525"
+    },
+    {
+      "BJMC": "25级26班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102526"
+    },
+    {
+      "BJMC": "25级27班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102527"
+    },
+    {
+      "BJMC": "25级28班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102528"
+    },
+    {
+      "BJMC": "25级29班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102529"
+    },
+    {
+      "BJMC": "25级30班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102530"
+    },
+    {
+      "BJMC": "25级31班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102531"
+    },
+    {
+      "BJMC": "25级32班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102532"
+    },
+    {
+      "BJMC": "25级33班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102533"
+    },
+    {
+      "BJMC": "25级34班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102534"
+    },
+    {
+      "BJMC": "25级35班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102535"
+    },
+    {
+      "BJMC": "25级36班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102536"
+    },
+    {
+      "BJMC": "25级37班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102537"
+    },
+    {
+      "BJMC": "25级38班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102538"
+    },
+    {
+      "BJMC": "25级39班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102539"
+    },
+    {
+      "BJMC": "25级40班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102540"
+    },
+    {
+      "BJMC": "25级41班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102541"
+    },
+    {
+      "BJMC": "25级42班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102542"
+    },
+    {
+      "BJMC": "25级43班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102543"
+    },
+    {
+      "BJMC": "25级44班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102544"
+    },
+    {
+      "BJMC": "25级45班",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "102545"
+    },
+    {
+      "BJMC": "14级生物医学工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "111401"
+    },
+    {
+      "BJMC": "19大数据管理与应用",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "120108T1901"
+    },
+    {
+      "BJMC": "20级大数据管理与应用",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "120108T2001"
+    },
+    {
+      "BJMC": "21大数据管理与应用",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "120108T2101"
+    },
+    {
+      "BJMC": "22大数据管理与应用",
+      "BJMCEN": "null",
+      "BJLX": "1",
+      "BJDM": "120108T2201"
+    },
+    {
+      "BJMC": "23级大数据管理与应用",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "120108T2301"
+    },
+    {
+      "BJMC": "24级大数据管理与应用",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "120108T2401"
+    },
+    {
+      "BJMC": "23级会计学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "120203K2301"
+    },
+    {
+      "BJMC": "24级会计学",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "120203K2401"
+    },
+    {
+      "BJMC": "22级工业工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "1207012201"
+    },
+    {
+      "BJMC": "23级工业工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "1207012301"
+    },
+    {
+      "BJMC": "24级工业工程",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "1207012401"
+    },
+    {
+      "BJMC": "17金融（研究生）",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "G0011701"
+    },
+    {
+      "BJMC": "18金融（研究生）",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "G0011801"
+    },
+    {
+      "BJMC": "17数学（研究生）",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "G0021701"
+    },
+    {
+      "BJMC": "18数学（研究生）",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "G0021801"
+    },
+    {
+      "BJMC": "17物理（研究生）",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "G0031701"
+    },
+    {
+      "BJMC": "18物理（研究生）",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "G0031801"
+    },
+    {
+      "BJMC": "17电子与电气工程（研究生）",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "G0041701"
+    },
+    {
+      "BJMC": "18电子与电气工程（研究生）",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "G0041801"
+    },
+    {
+      "BJMC": "17化学（研究生）",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "G0051701"
+    },
+    {
+      "BJMC": "18化学（研究生）",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "G0051801"
+    },
+    {
+      "BJMC": "17生物（研究生）",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "G0061701"
+    },
+    {
+      "BJMC": "18生物（研究生）",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "G0061801"
+    },
+    {
+      "BJMC": "17生物医学工程（研究生）",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "G0071701"
+    },
+    {
+      "BJMC": "18生物医学工程（研究生）",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "G0071801"
+    },
+    {
+      "BJMC": "17力学与航空航天（研究生）",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "G0081701"
+    },
+    {
+      "BJMC": "18力学与航空航天（研究生）",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "G0081801"
+    },
+    {
+      "BJMC": "17机械与能源工程（研究生）",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "G0091701"
+    },
+    {
+      "BJMC": "18机械与能源工程（研究生）",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "G0091801"
+    },
+    {
+      "BJMC": "17材料科学与工程（研究生）",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "G0101701"
+    },
+    {
+      "BJMC": "18材料科学与工程（研究生）",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "G0101801"
+    },
+    {
+      "BJMC": "17计算机科学与工程（研究生）",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "G0111701"
+    },
+    {
+      "BJMC": "18计算机科学与工程（研究生）",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "G0111801"
+    },
+    {
+      "BJMC": "17环境科学与工程（研究生）",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "G0121701"
+    },
+    {
+      "BJMC": "18环境科学与工程（研究生）",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "G0121801"
+    },
+    {
+      "BJMC": "17地球与空间科学（研究生）",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "G0131701"
+    },
+    {
+      "BJMC": "18地球与空间科学（研究生）",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "G0131801"
+    },
+    {
+      "BJMC": "17海洋科学与工程（研究生）",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "G0141701"
+    },
+    {
+      "BJMC": "18海洋科学与工程（研究生）",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "G0141801"
+    },
+    {
+      "BJMC": "17创新创业学院（研究生）",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "G0151701"
+    },
+    {
+      "BJMC": "18创新创业学院（研究生）",
+      "BJMCEN": null,
+      "BJLX": "1",
+      "BJDM": "G0151801"
+    }
+  ]
+}

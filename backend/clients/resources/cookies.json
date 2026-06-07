@@ -1,0 +1,20 @@
+{
+  "sid": "12311016",
+  "cas_login_ok": true,
+  "services": {
+    "bb": {
+      "is_valid": true,
+      "cookies": {
+        "JSESSIONID": "CFFCDD2F04A4B5E2D4D962D51045DA0B",
+        "s_session_id": "2D47ACF151892014E29238E01F8E5DB9"
+      }
+    },
+    "tis": {
+      "is_valid": true,
+      "cookies": {
+        "JSESSIONID": "4E94CE2254715A9ED4D82B6A19242424",
+        "route": "a4e23ebc43fc46391667782b865e973a"
+      }
+    }
+  }
+}
