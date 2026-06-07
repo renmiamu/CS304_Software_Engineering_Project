@@ -6,8 +6,8 @@ services:
     hostname: swxy_api
     environment:
       - HF_ENDPOINT=https://hf-mirror.com
-      - SUSTECH_ASSISTANT_SECRET_KEY=${SUSTECH_ASSISTANT_SECRET_KEY:-my_super_secret_key_12345}
-      - SUSTECH_ASSISTANT_DATABASE_URL=postgresql://${POSTGRES_USER:-shl1}:${POSTGRES_PASSWORD:-123456}@gsk_pg:5432/${POSTGRES_DB:-sustech_db}
+      - SUSTECH_ASSISTANT_SECRET_KEY=${SUSTECH_ASSISTANT_SECRET_KEY:-replace_with_a_secure_secret_key}
+      - SUSTECH_ASSISTANT_DATABASE_URL=postgresql://${POSTGRES_USER:-your_postgres_user}:${POSTGRES_PASSWORD:-your_postgres_password}@gsk_pg:5432/${POSTGRES_DB:-your_postgres_db}
       - ES_HOST=http://es01:9200
       - ROOT_PATH=http://localhost:8000
       - REDIS_HOST=redis
@@ -44,7 +44,7 @@ services:
       - gsk_esdata01:/usr/share/elasticsearch/data
     environment:
       - node.name=es01
-      - ELASTIC_PASSWORD=${ELASTIC_PASSWORD:-infini_rag_flow}
+      - ELASTIC_PASSWORD=${ELASTIC_PASSWORD:-replace_with_a_secure_elastic_password}
       - bootstrap.memory_lock=false
       - discovery.type=single-node
       - xpack.security.enabled=true
@@ -74,9 +74,9 @@ services:
     ports:
       - "5432:5432"
     environment:
-      - POSTGRES_PASSWORD=${POSTGRES_PASSWORD:-123456}
-      - POSTGRES_USER=${POSTGRES_USER:-shl1}
-      - POSTGRES_DB=${POSTGRES_DB:-sustech_db}
+      - POSTGRES_PASSWORD=${POSTGRES_PASSWORD:-your_postgres_password}
+      - POSTGRES_USER=${POSTGRES_USER:-your_postgres_user}
+      - POSTGRES_DB=${POSTGRES_DB:-your_postgres_db}
     volumes:
       - pg_data:/var/lib/postgresql/data
     restart: unless-stopped

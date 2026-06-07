@@ -1,0 +1,24 @@
+__pycache__/
+*.py[cod]
+.codex/
+.omx/
+.codex-temp/
+AGENTS.md
+
+# Generated data/image outputs
+backend/app/clients/resources/*.json
+backend/app/clients/resources/photos/*.jpg
+backend/app/clients/resources/photos/*.jpeg
+backend/clients/resources/*.json
+
+# Frontend logs and error files
+frontend/*.err
+frontend/*.log
+
+# # Environment files (secrets)
+.env
+.env.*
+backend/.env
+# !backend/.env.example
+.claude
+CLAUDE.md

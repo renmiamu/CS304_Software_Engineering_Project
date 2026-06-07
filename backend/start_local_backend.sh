@@ -16,8 +16,8 @@ fi
 echo "[1/4] 启动数据库相关容器 (PostgreSQL/Redis/Elasticsearch)..."
 "${COMPOSE_CMD[@]}" up -d gsk_pg redis es01
 
-POSTGRES_USER="${POSTGRES_USER:-shl1}"
-POSTGRES_DB="${POSTGRES_DB:-sustech_db}"
+POSTGRES_USER="${POSTGRES_USER:-your_postgres_user}"
+POSTGRES_DB="${POSTGRES_DB:-your_postgres_db}"
 
 wait_for_postgres() {
   local retries=60
@@ -68,7 +68,7 @@ if [[ -f "$SCRIPT_DIR/.env" ]]; then
   set +a
 fi
 
-export SUSTECH_ASSISTANT_DATABASE_URL="${SUSTECH_ASSISTANT_DATABASE_URL:-postgresql+psycopg2://shl1:123456@localhost:5432/sustech_db}"
+export SUSTECH_ASSISTANT_DATABASE_URL="${SUSTECH_ASSISTANT_DATABASE_URL:-postgresql+psycopg2://your_postgres_user:your_postgres_password@localhost:5432/your_postgres_db}"
 export REDIS_HOST="${REDIS_HOST:-localhost}"
 export REDIS_PORT="${REDIS_PORT:-${REDIS_HOST_PORT:-16379}}"
 export REDIS_DB="${REDIS_DB:-0}"
